@@ -9,7 +9,7 @@
 - Notes (if any): 
 
 I need stats of GAID. What percent of users who are currently in 3.0.1 and has synced data is missing the GAID?
-GAID --> public.register_tallykhatauser TBL ( advertise_id Column)
+GAID --> public.register_tallykhatauser TBL (advertise_id Column)
 
 */
 
