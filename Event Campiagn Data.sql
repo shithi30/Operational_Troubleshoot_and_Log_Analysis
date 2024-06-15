@@ -138,12 +138,12 @@ end $$;
 drop table if exists data_vajapora.help_d; 
 create table data_vajapora.help_d as
 
-/*#Data Set-1[Data Backup]
+/* # Data Set-1[Data Backup]
  1. Who has never gone to data backup page/screen in their lifetime?
  	- changed to: Who has not gone to data backup page/screen in last 6 months?
  2. Retained from last 6 months & active in last 30 days
  3. 20K data
- 4. Only mobile number*/
+ 4. Only mobile number */
 
 select mobile_no, 'Set-1[Data Backup]' category
 from 
@@ -154,12 +154,12 @@ where tbl2.mobile_no is null
 
 union all
 
-/*#Data Set-2[Tagada]
+/* # Data Set-2[Tagada]
  1. Who never sent a tagada message in lifetime 
  2. Retained from last 6 months & active in last 30 days
  3. Must have credit customers & credit amount as well 
  4. 10K data
- 5. Only mobile number*/
+ 5. Only mobile number */
 
 select mobile_no, 'Set-2[Tagada]' category
 from 
@@ -181,11 +181,11 @@ where tbl2.mobile_no is null
 
 union all
 
-/*#Data Set-3[Cash Kena & Expense]
+/* # Data Set-3[Cash Kena & Expense]
  1. SPU & PU who never use cash kena & Khoroch features in lifetime 
  2. Retained from last 6 months & active in last 30 days
  3. 5K SPU & 5K PU data
- 4. Only mobile number*/
+ 4. Only mobile number */
 
 select mobile_no, 'Set-3[Cash Kena & Expense] SPU' category
 from 
@@ -209,11 +209,11 @@ where
 
 union all
 
-/*#Data Set-4[Added Customer]
+/* # Data Set-4[Added Customer]
  1. Minimum 1 customers added but do not record any transaction  
  2. Retained from last 3 months & active in last 30 days
  3. 15K data
- 4. Only mobile number*/
+ 4. Only mobile number */
  
 select mobile_no, 'Set-4[]' category
 from 
@@ -237,11 +237,11 @@ where tbl3.mobile_no is null
 
 union all
 
-/*#Data Set-5[NT--]
+/* # Data Set-5[NT--]
  1. Active/app open but do not record any transaction in lifetime  
  2. Retained from last 6 months & active in last 30 days
  3. 15K data
- 4. Only mobile number*/
+ 4. Only mobile number */
 
 select mobile_no, 'Set-5[NT--]' category
 from 
