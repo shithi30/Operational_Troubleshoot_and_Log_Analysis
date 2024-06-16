@@ -3,10 +3,10 @@
 <img width="890" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/37cf4a62-be06-4f67-92e6-a4761f3b951c"><br>
 <img width="780" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/65ae5f19-46c0-4526-96b9-86c77ca716f5"><br>
 <img width="545" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/211d5a84-c06a-4d91-b1ab-4d728353e053"><br>
-<img width="675" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/99e1626c-1f56-4929-b771-2a4cf6eefc68"><br>
 <img width="700" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/22f3d679-9639-4bb0-b1d3-90fd43e04210"><br>
-<img width="610" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/5e0ad528-ee24-491b-b0f0-bf797850471b"><br>
 <img width="657" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/9ae0a39c-b28f-4fef-a9c3-d9eefc27570e"><br>
+<img width="610" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/5e0ad528-ee24-491b-b0f0-bf797850471b"><br>
+<img width="675" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/99e1626c-1f56-4929-b771-2a4cf6eefc68"><br>
 </p>
 
 ### User Engagement Time Analysis
@@ -30,10 +30,10 @@
 ### Data Sync & Usage: Device-wise
 <p align="center">
 <img width="900" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/da778371-e3f9-4b8c-9903-70ebc70dcaad"><br>
-<img width="460" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/419ba729-60c2-4e54-adc6-d34886fd307d"><br>
 <img width="525" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/8c6d9f61-8a74-4f8e-bfce-a56540af72c5"><br>
 <img width="625" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c73e8d8c-5f3b-474c-bb59-8dd69a7b8f42"><br>
 <img width="900" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/2301a891-9da3-4053-94a8-791fbd6a36cb"><br>
+<img width="460" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/419ba729-60c2-4e54-adc6-d34886fd307d"><br>
 </p>
 
 ### Errors/Delays in Service: Device-wise
