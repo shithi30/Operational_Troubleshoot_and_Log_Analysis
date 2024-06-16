@@ -1,3 +1,11 @@
+### User Engagement Time Analysis
+<p align="center">
+<img width="365" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/110455c9-76f6-4dbf-9e8a-671748774f23"><br>
+<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/5ca67215-ec24-40c8-9756-90060330dca2">
+<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/1f2e08ac-bbc2-4a8e-9224-a7c451487a87"><br>
+<img width="525" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/a167e682-f23b-4aea-9154-d0488b4292ea"><br>
+</p>
+
 ### Usage Patterns - Open, Roam, Txn Entry
 <p align="center">
 <img width="390" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/14304713-1f44-447a-8673-1fefc725ddb3">
@@ -22,15 +30,6 @@
 <img width="725" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/0ceae3d9-da89-46d3-b2a1-cdbf5f78c3d7"><br>
 <img width="745" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/60df2dda-7cfc-4f24-8888-e9f4a3882163"><br>
 <img width="555" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c75abca4-8fdb-449e-b880-deef47d71600"><br>
-</p>
-
-### time
-<p align="center">
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/110455c9-76f6-4dbf-9e8a-671748774f23"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/5ca67215-ec24-40c8-9756-90060330dca2"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/1f2e08ac-bbc2-4a8e-9224-a7c451487a87"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/a167e682-f23b-4aea-9154-d0488b4292ea"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/be95a9ca-ef02-4d95-96ce-52ecc3dbb830"><br>
 </p>
 
 ### update/dwd/reg/otp/login
