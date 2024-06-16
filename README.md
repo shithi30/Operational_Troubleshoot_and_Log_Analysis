@@ -1,3 +1,14 @@
+### Update/Download/Register/OTP-verification/Login
+<p align="center">
+<img width="890" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/37cf4a62-be06-4f67-92e6-a4761f3b951c"><br>
+<img width="780" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/65ae5f19-46c0-4526-96b9-86c77ca716f5"><br>
+<img width="545" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/211d5a84-c06a-4d91-b1ab-4d728353e053"><br>
+<img width="675" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/99e1626c-1f56-4929-b771-2a4cf6eefc68"><br>
+<img width="700" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/22f3d679-9639-4bb0-b1d3-90fd43e04210"><br>
+<img width="610" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/5e0ad528-ee24-491b-b0f0-bf797850471b"><br>
+<img width="657" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/9ae0a39c-b28f-4fef-a9c3-d9eefc27570e"><br>
+</p>
+
 ### User Engagement Time Analysis
 <p align="center">
 <img width="365" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/110455c9-76f6-4dbf-9e8a-671748774f23"><br>
@@ -30,16 +41,5 @@
 <img width="725" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/0ceae3d9-da89-46d3-b2a1-cdbf5f78c3d7"><br>
 <img width="745" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/60df2dda-7cfc-4f24-8888-e9f4a3882163"><br>
 <img width="555" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c75abca4-8fdb-449e-b880-deef47d71600"><br>
-</p>
-
-### update/dwd/reg/otp/login
-<p align="center">
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/99e1626c-1f56-4929-b771-2a4cf6eefc68"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/22f3d679-9639-4bb0-b1d3-90fd43e04210"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/5e0ad528-ee24-491b-b0f0-bf797850471b"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/211d5a84-c06a-4d91-b1ab-4d728353e053"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/9ae0a39c-b28f-4fef-a9c3-d9eefc27570e"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/65ae5f19-46c0-4526-96b9-86c77ca716f5"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/37cf4a62-be06-4f67-92e6-a4761f3b951c"><br>
 </p>
 
