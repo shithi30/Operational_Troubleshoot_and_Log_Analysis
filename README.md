@@ -1,3 +1,13 @@
+### Usage Patterns - Open, Roam, Txn Entry
+<p align="center">
+<img width="390" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/14304713-1f44-447a-8673-1fefc725ddb3">
+<img width="520" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/0bcdf0c0-c500-4d5d-92c9-d1094d5c7884"><br>
+<img width="490" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/fb9ec2fc-0ee4-4290-80a6-36595dfeb30f"><br>
+<img width="625" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/d7bcd805-63a2-46eb-b0e9-b2f4ae248c8e"><br>
+<img width="625" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c00fbfce-9246-4783-a874-f81262a46d92"><br>
+<img width="1010" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/6c052d43-c0fc-447a-8378-a1a0361f76d0"><br>
+</p>
+
 ### Data Sync & Usage: Device-wise
 <p align="center">
 <img width="900" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/da778371-e3f9-4b8c-9903-70ebc70dcaad"><br>
@@ -12,16 +22,6 @@
 <img width="725" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/0ceae3d9-da89-46d3-b2a1-cdbf5f78c3d7"><br>
 <img width="745" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/60df2dda-7cfc-4f24-8888-e9f4a3882163"><br>
 <img width="555" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c75abca4-8fdb-449e-b880-deef47d71600"><br>
-</p>
-
-### usage
-<p align="center">
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/14304713-1f44-447a-8673-1fefc725ddb3"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/0bcdf0c0-c500-4d5d-92c9-d1094d5c7884"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/fb9ec2fc-0ee4-4290-80a6-36595dfeb30f"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/d7bcd805-63a2-46eb-b0e9-b2f4ae248c8e"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c00fbfce-9246-4783-a874-f81262a46d92"><br>
-<img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/6c052d43-c0fc-447a-8378-a1a0361f76d0"><br>
 </p>
 
 ### time
