@@ -1,4 +1,4 @@
-### Update/Download/Register/OTP-verification/Login
+### Download/Register/OTP-verification/Login/Update
 <p align="center">
 <img width="890" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/37cf4a62-be06-4f67-92e6-a4761f3b951c"><br>
 <img width="780" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/65ae5f19-46c0-4526-96b9-86c77ca716f5"><br>
