@@ -49,3 +49,4 @@ Acquisition funnel analytics and system health analytics after updates are launc
 <img width="555" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/c75abca4-8fdb-449e-b880-deef47d71600"><br>
 </p>
 
+For understanding implications of such release analytics, [click here](https://www.tallykhata.com/en/home-eng/) to know how *TallyKhata* business operates.
