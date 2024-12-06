@@ -1,6 +1,6 @@
-Acquisition funnel analytics and system health analytics agter updates getting launched - would constitute a large portion of *TallyKhata* analytics. In this repo:
+Acquisition funnel analytics and system health analytics after updates are launched - would constitute a large portion of *TallyKhata* analytics. In this repo:
 - Regular system health (login, OTP verification, D2S API calls & errors) KPIs are calculated, dashboarded and refreshed on hourly batch processes.
-- Trends of: Uninstallation, upgradation, version updates, engagement time, OS/device-wise response times, packet transfer size - are monitored.
+- Trends of: Uninstallation, upgradation, version updates, engagement time, OS/device-wise API response times, packet transfer size - are monitored.
 
 **Tech Stack:** `Postgres` `PL/SQL` `DBeaver` `Database dumps` `GCP Cloud Service APIs` `Google Data Studio` `Google Sheets` 
 
