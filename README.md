@@ -1,8 +1,8 @@
 Acquisition funnel analytics and system health analytics agter updates getting launched - would constitute a large portion of TallyKhata analytics. In this repo:
-- Regular system health KPIs (login, OTP verification, D2S API calls) are calculated, dashboarded and refreshed on hourly batch processes.
+- Regular system health (login, OTP verification, D2S API calls & errors) KPIs are calculated, dashboarded and refreshed on hourly batch processes.
 - Trends of: Uninstallation, upgradation, version updates, engagement time, OS/device-wise response times, packet transfer size - are monitored.
 
-**Tech Stack:** `Postgres` `PL/SQL` `DBeaver` `GCP Cloud Service APIs` `Google Data Studio` `Google Sheets` 
+**Tech Stack:** `Postgres` `PL/SQL` `DBeaver` `Database dumps` `GCP Cloud Service APIs` `Google Data Studio` `Google Sheets` 
 
 ### Download/Register/OTP-verification/Login/Update
 <p align="center">
