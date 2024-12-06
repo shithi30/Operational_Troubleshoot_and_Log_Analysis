@@ -1,4 +1,4 @@
-Acquisition funnel analytics and system health analytics agter updates getting launched - would constitute a large portion of TallyKhata analytics. In this repo:
+Acquisition funnel analytics and system health analytics agter updates getting launched - would constitute a large portion of *TallyKhata* analytics. In this repo:
 - Regular system health (login, OTP verification, D2S API calls & errors) KPIs are calculated, dashboarded and refreshed on hourly batch processes.
 - Trends of: Uninstallation, upgradation, version updates, engagement time, OS/device-wise response times, packet transfer size - are monitored.
 
